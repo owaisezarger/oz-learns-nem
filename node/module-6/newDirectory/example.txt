@@ -1,0 +1,1 @@
+created newDirectory using fs.mkdir
